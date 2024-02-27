@@ -6,12 +6,13 @@
 
 - 🌱 I’m currently learning **Data Analysis and Project Management**
 
+  <img align="right" width="300" alt="anim" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" />
+
 - 📫 How to reach me **maheenhuda62@gmail.com**
 
 - ⚡ Fun fact **I'm a former Project Engineer**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" width="400" alt="anim" src="https://dribbble.com/shots/3863114-The-girl-and-her-laptop?utm_source=Clipboard_Shot&utm_campaign=saquibsarwar&utm_content=The%20girl%20and%20her%20laptop&utm_medium=Social_Share"  />
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/maheenhuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maheenhuda" height="30" width="40" /></a>
 <a href="https://instagram.com/huda_desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huda_desai" height="30" width="40" /></a>
