@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analysis and Project Management**
 
-  <img align="right" width="300" alt="anim" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" />
+<img align="right" width="300" alt="anim" src="https://user-images.githubusercontent.com/104720889/224196163-2863c3e2-5959-4974-b66b-e5381e4904bf.gif" />
 
 - 📫 How to reach me **maheenhuda62@gmail.com**
 
